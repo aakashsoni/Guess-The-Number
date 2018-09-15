@@ -35,7 +35,10 @@ Y88b   d88P                       888       888                       888 888 88
 
 %s is the correct number
 ''' % number
-
+        print "Your Tries: \n"
+        val.append("CORRECT")
+        for i in xrange(len(all_tries)):
+            print "\t%s\t\t%s" % (all_tries[i], val[i])
         break
     elif guess > number:
         print "Your guess is HIGHER!"
