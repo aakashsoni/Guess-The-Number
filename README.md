@@ -49,7 +49,7 @@ Your Tries:
 
 
 Guess the number: 7
-You lost the game :(
+### You lost the game :(
 
 
 ------------------------------------------------------------------------------------------------------------------------
@@ -79,6 +79,6 @@ Y88b   d88P                       888       888                       888 888 88
     888     Y88..88P Y88b 888     8888P   Y8888 Y88..88P 888  888      "   "   "
     888      "Y88P"   "Y88888     888P     Y888  "Y88P"  888  888     888 888 888
 ```
-6023 is the correct number
+### 6023 is the correct number
 
 soni@ubuntu:~/Guess-The-Number$ 
