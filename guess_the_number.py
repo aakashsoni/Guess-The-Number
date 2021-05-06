@@ -1,5 +1,6 @@
 import random
 
+print("Hi Teju!")
 number = random.randrange(0, 10000)
 tries = 20
 guess = -1
